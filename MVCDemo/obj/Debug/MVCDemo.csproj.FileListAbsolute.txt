@@ -107,4 +107,3 @@ C:\Users\tim\Desktop\GitHub\MVCDemo\MVCDemo\bin\zh-Hans\Microsoft.Owin.Security.
 C:\Users\tim\Desktop\GitHub\MVCDemo\MVCDemo\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\tim\Desktop\GitHub\MVCDemo\MVCDemo\obj\Debug\MVCDemo.dll
 C:\Users\tim\Desktop\GitHub\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
-C:\Users\tim\Desktop\GitHub\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
