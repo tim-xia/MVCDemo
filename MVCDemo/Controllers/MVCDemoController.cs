@@ -28,12 +28,28 @@ namespace MVCDemo.Controllers
         /// <returns></returns>
         public ViewResult RsvpForm(GuestResponse response)
         {
+            if (!Request.IsAuthenticated)
+            {
+                return View("UnAuthenticate");
+            }
             //TODO: 发送邮件给晚会组织者
             return View("Thanks", response);
         }
 
-
+        /// <summary>
+        /// 致谢页面
+        /// </summary>
+        /// <returns></returns>
         public ViewResult Thanks()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// 未验证
+        /// </summary>
+        /// <returns></returns>
+        public ViewResult UnAuthenticate()
         {
             return View();
         }

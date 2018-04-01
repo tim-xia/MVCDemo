@@ -91,10 +91,10 @@
       <publishTime>04/23/2012 15:23:58</publishTime>
     </File>
     <File Include="bin/MVCDemo.dll">
-      <publishTime>04/01/2018 13:18:13</publishTime>
+      <publishTime>04/01/2018 17:33:25</publishTime>
     </File>
     <File Include="bin/MVCDemo.pdb">
-      <publishTime>04/01/2018 13:18:13</publishTime>
+      <publishTime>04/01/2018 17:33:25</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>08/03/2014 20:33:56</publishTime>
@@ -380,6 +380,9 @@
     </File>
     <File Include="Views/MVCDemo/Thanks.cshtml">
       <publishTime>04/01/2018 13:17:04</publishTime>
+    </File>
+    <File Include="Views/MVCDemo/UnAuthenticate.cshtml">
+      <publishTime>04/01/2018 17:32:28</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>04/01/2018 10:49:28</publishTime>
